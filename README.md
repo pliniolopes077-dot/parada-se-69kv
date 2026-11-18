@@ -42,4 +42,4 @@ A SE 69/13,8 kV (caso simulado) alimenta toda a planta, e por isso a manutençã
 - **Pendente:** validar o custo da hora parada com dados reais da planta (condição da P6)
 
 ## Histórico (`historico/`)
-Capturas: `historico/quadro_final_board.png`, `historico/quadro_final_tabela.png`, `historico/historico_T4_issue10.png` e `historico/historico_T6_issue12.png`. Tarefas representativas: ver T4 (https://github.com/pliniolopes077-dot/parada-se-69kv/issues/10) e T6 (https://github.com/pliniolopes077-dot/parada-se-69kv/issues/12).
+Capturas do quadro final e do histórico de duas tarefas representativas: T4 (https://github.com/pliniolopes077-dot/parada-se-69kv/issues/10) e T6 (https://github.com/pliniolopes077-dot/parada-se-69kv/issues/12).

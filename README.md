@@ -7,7 +7,7 @@
 ## Problema e solução
 A SE 69/13,8 kV (caso simulado) alimenta toda a planta, e por isso a manutenção preventiva vem sendo adiada, o que aumenta o risco de falha não programada. A solução é um **plano de parada programada de até 24 h**, com escopo por equipamento, cronograma por hora, manobras e bloqueios conforme a NR-10 e checklist de liberação e reenergização. A execução é simulada.
 
-**Quadro GitHub Projects:** https://github.com/users/pliniolopes077-dot/projects/1
+**Quadro GitHub Projects:** https://github.com/users/pliniolopes077-dot/projects/1 (visão Board: https://github.com/users/pliniolopes077-dot/projects/1/views/2)
 
 ## Entregas
 | Etapa | Issue |
@@ -38,8 +38,8 @@ A SE 69/13,8 kV (caso simulado) alimenta toda a planta, e por isso a manutençã
 
 ## Situação final
 - **Concluído:** P1 a P6 e T1 a T7 (Issues fechadas como concluídas em 18/11/2026)
-- **Cancelado:** nenhum
+- **Cancelado:** #14, Issue duplicada da T7 criada por engano e encerrada como "não planejada" (https://github.com/pliniolopes077-dot/parada-se-69kv/issues/14)
 - **Pendente:** validar o custo da hora parada com dados reais da planta (condição da P6)
 
 ## Histórico (`historico/`)
-Capturas do quadro final e de 2 tarefas representativas: ver T4 (https://github.com/pliniolopes077-dot/parada-se-69kv/issues/10) e T6 (https://github.com/pliniolopes077-dot/parada-se-69kv/issues/12).
+Capturas: `historico/quadro_final_board.png`, `historico/quadro_final_tabela.png`, `historico/historico_T4_issue10.png` e `historico/historico_T6_issue12.png`. Tarefas representativas: ver T4 (https://github.com/pliniolopes077-dot/parada-se-69kv/issues/10) e T6 (https://github.com/pliniolopes077-dot/parada-se-69kv/issues/12).
